@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-Learning Java<br>Collaborate on Java Based Projects<br>Help With Living Out life<br><br>
+Learning Java<br>Help With Living Out life<br><br>
 
 
 ## 🌐 Socials:
