@@ -2,7 +2,8 @@
 
 Only Bugs I love are LadyBugs!🐞
 
-I'm skilled with **JavaScript/TypeScript** 💻 and all its associated runtimes. I've built applications from scratch with modern web technologies. I'm someone who is always on the lookout for modern tools that would improve the experience of both the developers and end-users. I'm a enthusiastic dev looking for oppurtunities.
+I'm skilled with **JavaScript/TypeScript** 💻 and all its associated runtime. I've built applications from scratch with modern web technologies. I'm someone who is always on the lookout for modern tools that would improve the experience of both the developers and end-users. I'm a enthusiastic dev looking for opportunities
+.
 
 ###
 
